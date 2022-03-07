@@ -9,3 +9,5 @@ added screenshots and links to two projects
 added downloadable pdf of resume
 <br>
 added project to portfolio
+<br>
+refrigured css

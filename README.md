@@ -7,3 +7,5 @@ added contact info
 added screenshots and links to two projects
 </br>
 added downloadable pdf of resume
+<br>
+added project to portfolio
